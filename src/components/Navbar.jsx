@@ -39,7 +39,7 @@ const Navbar = () => {
                 title="Our product"
                 class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
-                Product
+                Latest
               </a>
             </li>
             <li>
@@ -49,7 +49,7 @@ const Navbar = () => {
                 title="Our product"
                 class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
-                Features
+                Android
               </a>
             </li>
             <li>
@@ -59,7 +59,7 @@ const Navbar = () => {
                 title="Product pricing"
                 class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
-                Pricing
+                MacOS
               </a>
             </li>
             <li>
